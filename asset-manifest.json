@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/n3218/pet-hospital-app/static/css/main.27763e55.chunk.css",
+    "main.js": "/n3218/pet-hospital-app/static/js/main.6b5a83b5.chunk.js",
+    "main.js.map": "/n3218/pet-hospital-app/static/js/main.6b5a83b5.chunk.js.map",
+    "runtime-main.js": "/n3218/pet-hospital-app/static/js/runtime-main.bf9e2767.js",
+    "runtime-main.js.map": "/n3218/pet-hospital-app/static/js/runtime-main.bf9e2767.js.map",
+    "static/css/2.89f067aa.chunk.css": "/n3218/pet-hospital-app/static/css/2.89f067aa.chunk.css",
+    "static/js/2.12654a98.chunk.js": "/n3218/pet-hospital-app/static/js/2.12654a98.chunk.js",
+    "static/js/2.12654a98.chunk.js.map": "/n3218/pet-hospital-app/static/js/2.12654a98.chunk.js.map",
+    "index.html": "/n3218/pet-hospital-app/index.html",
+    "precache-manifest.4dac6a53e70826a804ac24dfe2695500.js": "/n3218/pet-hospital-app/precache-manifest.4dac6a53e70826a804ac24dfe2695500.js",
+    "service-worker.js": "/n3218/pet-hospital-app/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/n3218/pet-hospital-app/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.27763e55.chunk.css.map": "/n3218/pet-hospital-app/static/css/main.27763e55.chunk.css.map",
+    "static/js/2.12654a98.chunk.js.LICENSE.txt": "/n3218/pet-hospital-app/static/js/2.12654a98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf9e2767.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.12654a98.chunk.js",
+    "static/css/main.27763e55.chunk.css",
+    "static/js/main.6b5a83b5.chunk.js"
+  ]
+}
